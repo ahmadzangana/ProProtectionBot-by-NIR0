@@ -1,0 +1,27 @@
+{
+  "name": "pro-protection",
+  "version": "1.0.0",
+  "description": "All_Copyrights-Go's-to-NIR0",
+  "main": "protecteion.js",
+  "scripts": {
+    "test": "echo \\\"NIRO Protection Is Active \\\""
+  },
+  "repository": {
+    "type": "git",
+    "url": ": ("
+  },
+  "keywords": [
+    "NIR0"
+  ],
+  "author": "NIR0",
+  "license": "MIT",
+  "dependencies": {
+    "discord-anti-spam": "^2.4.1",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  }
+}
